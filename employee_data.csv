@@ -1,0 +1,27 @@
+First_Name,Last_name,Age,Education,Marital_Status,Gender,State,Country,Income_in_2015,Income_in_2016,Income_in_2017,Income_in_2018,Income_in_2019
+John,Smith,39,Bachelors,Single,Male,New York,USA,84000,126000,163800,196560,255528
+David,Williams,50,Masters,Married,Male,California,USA,75000,90000,126000,163800,196560
+George,Brown,38,PhD,Divorced,Male,Illinois,USA,45000,58500,81900,122850,159705
+Henry,Miller,53,Masters,Single,Male,Kansas,USA,35000,59500,71400,85680,111384
+Mary,Jane,28,Masters,Married,Female,New York,USA,36000,64800,90720,117936,176904
+Emma,Grace,37,Masters,Divorced,Female,California,USA,40000,48000,57600,69120,89856
+Nancy,Johnson,49,Bachelors,Single,Female,Illinois,USA,48000,81600,97920,146880,205632
+Thomas,Johnson,52,Bachelors,Married,Male,Kansas,USA,38000,45600,59280,71136,99590
+Martha,Hernandez,31,Bachelors,Divorced,Female,New York,USA,42000,75600,90720,108864,163296
+William,Brown,42,PhD,Single,Male,California,USA,80000,96000,115200,172800,207360
+James,Miller,37,PhD,Married,Male,Illinois,USA,95000,152000,197600,237120,284544
+George,Johnson,30,PhD,Single,Male,Kansas,USA,98000,156800,219520,307328,368794
+Margaret,Martinez,23,Masters,Single,Female,Kansas,USA,38000,45600,68400,88920,133380
+Henry,Jones,32,Masters,Married,Male,Kansas,USA,48000,72000,93600,112320,146016
+Thomas,Davis,40,Bachelors,Married,Male,New York,USA,50000,80000,120000,144000,216000
+Charles,Williams,34,Bachelors,Married,Male,New York,USA,40000,48000,57600,86400,112320
+Amit,Badhana,28,Bachelors,Single,Male,Noida,INDIA,1000000,1200000,1560000,2028000,3042000
+Jyoti,Sharma,30,Masters,Married,Female,New Delhi,INDIA,36000,46800,70200,84240,117936
+Swathi,John,35,Masters,Single,Female,Bangalore,INDIA,22000,26400,31680,38016,53222
+Manish,Jain,50,Bachelors,Married,Male,Mumbai,INDIA,2000000,3000000,3600000,5040000,7560000
+Subbu Laxmi,Murugan,42,PhD,Married,Female,Chennai,INDIA,24000,36000,43200,56160,78624
+Vaibhav,Pandey,24,Bachelors,Single,Male,Mumbai,INDIA,28000,50400,75600,105840,127008
+Sanjeeva,Kumar,34,Masters,Married,Female,Chennai,INDIA,18000,25200,32760,39312,55037
+Kiran,Reddy,32,Bachelors,Single,Male,Hyderabad,INDIA,19000,32300,45220,67830,101745
+Samba Savithri,Rao,28,Masters,Married,Female,Hyderabad,INDIA,17000,30600,45900,55080,71604
+Janardhan,Reddy,26,Bachelors,Single,Male,Hyderabad,INDIA,15000,22500,27000,37800,45360
